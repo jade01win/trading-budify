@@ -24,7 +24,7 @@ class App extends BaseConfig
      * @var string
      */
     public $baseURL = 'http://localhost:8080/';
-
+    public $assetsURL = "http://localhost:8080/workspace/trading-budify/backend/public/assets/";
     /**
      * --------------------------------------------------------------------------
      * Index File
