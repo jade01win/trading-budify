@@ -1,2 +1,3 @@
 # trading-budify
-XxXXXxxxxXxxXxXxxxx
+
+HAILLLL DITO KIRIMITO !!!!!!!!!
