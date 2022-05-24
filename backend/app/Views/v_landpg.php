@@ -105,7 +105,7 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Data Collecting</a>
                         <div class="dropdown-menu rounded-0 m-0">
-                            <a href="<?= site_url('home') ?>/crypto" class="dropdown-item">Crypto</a>
+                            <a href="crypto" class="dropdown-item">Crypto</a>
                             <a href="<?= site_url('home') ?>/stocks" class="dropdown-item">Stocks</a>
                             <a href="<?= site_url('home') ?>/forex" class="dropdown-item">Forex</a>
                         </div>

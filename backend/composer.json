@@ -10,9 +10,14 @@
         "ext-intl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
+        "eftec/bladeone": "^4.5",
+        "guzzlehttp/guzzle": "^7.4",
+        "illuminate/collections": "^9.13",
         "kint-php/kint": "^4.0",
         "laminas/laminas-escaper": "^2.9",
-        "psr/log": "^1.1"
+        "psr/log": "^1.1",
+        "seld/jsonlint": "^1.9",
+        "timetoogo/pinq": "^3.5"
     },
     "require-dev": {
         "codeigniter/coding-standard": "1.2.*",
