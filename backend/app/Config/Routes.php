@@ -33,6 +33,9 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/crypto', 'Home::crypto');
+$routes->get('/stocks', 'Home::stocks');
+$routes->get('/forex', 'Home::forex');
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing
